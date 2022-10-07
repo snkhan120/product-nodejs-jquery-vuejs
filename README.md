@@ -6,7 +6,6 @@ Product CRUD operations with nodejs backend and jquery plus vuejs frontend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snkhan120&label=Profile%20views&color=0e75b6&style=flat" alt="snkhan120" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snkhan120" alt="snkhan120" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
